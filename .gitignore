@@ -1,0 +1,4 @@
+#Arquivos que devem ser ignorados 
+
+node_modules/
+
